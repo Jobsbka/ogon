@@ -1,7 +1,3 @@
-Вот готовое содержимое для `README.md`, оформленное строго в формате Markdown. Просто скопируйте и сохраните как файл `README.md` в корне проекта.
-
-
-
 ```markdown
 
 \# OGON — Open Graph Object Notation
