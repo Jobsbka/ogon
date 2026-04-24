@@ -1,10 +1,12 @@
-```markdown
-
-\# OGON — Open Graph Object Notation
+OGON — Open Graph Object Notation
 
 
 
 \*\*Header-only библиотека C++17 для работы с графовым форматом данных\*\*
+
+
+
+```
 
 
 
